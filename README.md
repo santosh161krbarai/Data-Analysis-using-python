@@ -1,1 +1,1 @@
-# Django
+# Learning basic data analysis
